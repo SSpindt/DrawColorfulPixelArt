@@ -8,7 +8,7 @@ public void settings(){
   
   // Assign individual indices of the matrix to 0s and 1s to recreate your pixel art!
   // An example is found below.
-  matrix[0][0] = 2;
+  matrix[0][1] = 2;
   
   
   
